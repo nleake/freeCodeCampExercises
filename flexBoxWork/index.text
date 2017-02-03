@@ -1,0 +1,11 @@
+/*Make parent element a flex container*/
+  ul {
+    display: flex; /*or inline-flex*/
+  }
+
+
+flex display starts off the Flexbox model, ul becmoes the flex container, and children are flex items.
+
+The Flex Container Properties
+Flex-direction || Flex-wrap || Flex-flow || Justify-content || Align-items || Align-content
+
